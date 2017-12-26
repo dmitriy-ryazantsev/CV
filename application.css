@@ -1,0 +1,17 @@
+.project-info
+{
+    height: 3em;
+    padding: 1em;
+    background-color: #dff0d8;
+    border-left: #3c763d;
+    border-style: solid;
+    border-left-width: 0.5em;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+}
+
+.shadow
+{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
